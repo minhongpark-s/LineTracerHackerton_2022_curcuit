@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\User\Documents\kicad\LineTracerHackerton_2022_curcuit\latton rt.kicad_sch</source>
+    <date>2022-03-05 오후 8:11:38</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>latton rt.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC Part #" value="C2286"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89ee254b-220c-4278-acd2-2f9fc95aa29e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc697795-41cb-4ffc-8c32-e8e0a3fce952</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b6d2a69-1120-4a00-bb80-e25248b29dae</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>5267-02A-X</value>
+      <footprint>Connector_Molex:Molex_SPOX_5267-02A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/099990986_sd.pdf</datasheet>
+      <fields>
+        <field name="Description">Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Top Entry Thru-Hole SPOX Bag</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">MOLEX PREMISE NETWORK</field>
+        <field name="Manufacturer_Part_Number">5267-02A-X</field>
+      </fields>
+      <libsource lib="5267-02A-X" part="5267-02A-X" description=""/>
+      <property name="Description" value="Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Top Entry Thru-Hole SPOX Bag"/>
+      <property name="Height" value="6.1"/>
+      <property name="Manufacturer_Name" value="MOLEX PREMISE NETWORK"/>
+      <property name="Manufacturer_Part_Number" value="5267-02A-X"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f91772cb-2f50-441f-b5c4-c798eaf9c2ab</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>5267-02A-X</value>
+      <footprint>Connector_Molex:Molex_SPOX_5267-02A_1x02_P2.50mm_Vertical</footprint>
+      <datasheet>https://www.molex.com/pdm_docs/sd/099990986_sd.pdf</datasheet>
+      <fields>
+        <field name="Description">Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Top Entry Thru-Hole SPOX Bag</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">MOLEX PREMISE NETWORK</field>
+        <field name="Manufacturer_Part_Number">5267-02A-X</field>
+      </fields>
+      <libsource lib="5267-02A-X" part="5267-02A-X" description=""/>
+      <property name="Description" value="Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Top Entry Thru-Hole SPOX Bag"/>
+      <property name="Height" value="6.1"/>
+      <property name="Manufacturer_Name" value="MOLEX PREMISE NETWORK"/>
+      <property name="Manufacturer_Part_Number" value="5267-02A-X"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8cc58e3-62a4-4706-a5aa-2ac92729e3a1</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>XT60-M</value>
+      <footprint>XT60-M:AMASS_XT60-M</footprint>
+      <fields>
+        <field name="MANUFACTURER">AMASS</field>
+        <field name="PARTREV">1.2</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <libsource lib="XT60-M" part="XT60-M" description=""/>
+      <property name="MANUFACTURER" value="AMASS"/>
+      <property name="PARTREV" value="1.2"/>
+      <property name="STANDARD" value="IPC-7251"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b766001-ed9e-412d-961f-2c1883263df6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C17617</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C17617"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fac28440-f9f4-4d6e-8b4a-1d2e2584b07e</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPDT</value>
+      <footprint>Button_Switch_THT:SW_CuK_JS202011AQN_DPDT_Angled</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="latton rt.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aabf0c63-7ea8-4ab5-a8da-eb2c9b5ead98</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="5267-02A-X" part="5267-02A-X">
+      <docs>https://www.molex.com/pdm_docs/sd/099990986_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">5267-02A-X</field>
+        <field name="Footprint">SHDR2W90P0X250_1X2_740X490X610P</field>
+        <field name="Datasheet">https://www.molex.com/pdm_docs/sd/099990986_sd.pdf</field>
+        <field name="Description">Conn Shrouded Header (4 Sides) HDR 2 POS 2.5mm Solder ST Top Entry Thru-Hole SPOX Bag</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">MOLEX PREMISE NETWORK</field>
+        <field name="Manufacturer_Part_Number">5267-02A-X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="XT60-M" part="XT60-M">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">XT60-M</field>
+        <field name="Footprint">AMASS_XT60-M</field>
+        <field name="MANUFACTURER">AMASS</field>
+        <field name="PARTREV">1.2</field>
+        <field name="STANDARD">IPC-7251</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+  </nets>
+</export>
